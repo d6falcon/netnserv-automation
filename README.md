@@ -3,5 +3,6 @@ Network and Server Security Automation
 Requirements
 - Python
 - Terraform
-- Networking 101
-- Systems administration
+- Cloud computing
+- Computer networking
+- Systems administration (using korn shell)
