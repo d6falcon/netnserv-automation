@@ -7,6 +7,9 @@ Network and Server Security Automation
     - Nornir automation framework
     - JunOS PyEZ
 - Terraform
+- Cloud service provider
+
+// Pre-requisite knowledge:-
 - Cloud computing
 - Computer networking
 - Systems administration (using korn shell)
